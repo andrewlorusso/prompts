@@ -18,3 +18,5 @@ Just as traditional programming languages are an implementation tool to interfac
 **Sections**
 - Variance
 - Skew
+
+**Goal** Younger enterences to a field can use these kind of toos (llms) to more rapidly ascend to expertise level
